@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "276736074721",
+    "project_id": "chat-app-13807",
+    "storage_bucket": "chat-app-13807.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276736074721:android:71aa6d257e6911398ca8a0",
+        "android_client_info": {
+          "package_name": "com.hebaa.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276736074721-49590f753b01je1np6cqtrmopjsfecjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJRoyQb5txpxsqpY6_cq135PaozXEhWAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276736074721-49590f753b01je1np6cqtrmopjsfecjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
